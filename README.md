@@ -1,2 +1,2 @@
 # Projekt-Gra
-Przykładowe repozytorium założone na potrzeby testu
+Repozytorium z efektem przewijania tła w Grze.
